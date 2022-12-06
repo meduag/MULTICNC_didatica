@@ -1,0 +1,12 @@
+$24 - Homing feed, mm/min
+$ 24 - RESET FUERA DE VELOCIDAD, MM / MIN
+
+$25 - Homing seek, mm/min
+$ 25 - RESET DAR VELOCIDAD, MM / MIN
+
+$26 - Homing debounce, milliseconds
+$ 26 - Restablecimiento, MI
+
+$100, $101 and $102 – [X,Y,Z] steps/mm
+$ 100, $ 101 y $ 102 - [x, y, z] paso / mm
+
